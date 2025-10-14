@@ -117,7 +117,7 @@ def write_results_to_file(avg_body_mass, flipper_percentages, filename="penguin_
         outfile.write(f"long_flipper_percentage,Adelie,,{island},{round(percentage, 2)},%\n")
     
     outfile.close()
-
+    print(f"Results successfully written to {filename}")
 
     
 class TestProject1(unittest.TestCase):
