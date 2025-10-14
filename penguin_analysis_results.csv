@@ -1,0 +1,12 @@
+analysis_type,species,sex,island,value,unit
+average_body_mass,Adelie,male,,4043.49,grams
+average_body_mass,Adelie,female,,3368.84,grams
+average_body_mass,Adelie,NA,,3540.0,grams
+average_body_mass,Gentoo,female,,4679.74,grams
+average_body_mass,Gentoo,male,,5484.84,grams
+average_body_mass,Gentoo,NA,,4587.5,grams
+average_body_mass,Chinstrap,female,,3527.21,grams
+average_body_mass,Chinstrap,male,,3938.97,grams
+long_flipper_percentage,Adelie,,Torgersen,3.92,%
+long_flipper_percentage,Adelie,,Biscoe,2.27,%
+long_flipper_percentage,Adelie,,Dream,7.14,%
